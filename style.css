@@ -73,3 +73,10 @@
 .shad {
   text-decoration: line-through;
 }
+.rat {
+  color: gold;
+  font-size: 21px;
+}
+.star {
+  color: rgb(201, 199, 199);
+}

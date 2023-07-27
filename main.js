@@ -407,7 +407,7 @@ for (let i = 0; i < 30; i++) {
 <button class="redbox">-${dis}%</button>
 </div>
 <div class="mid"><h3>${title}</h3>
-<p>${rating}</p>
+<p class="rat">${rating}&#9733;&#9733;&#9733;&#9733;<span class ="star">&#9733;</span></p>
 <p class ="d">${desc}</p></div>
 <div class= "left">
 <div class ="pr"><p class="first">$${price}.00</p><p class="shad">$${perc}.00</p></div>
